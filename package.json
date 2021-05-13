@@ -1,0 +1,19 @@
+{
+  "name": "desfaioClase32",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node benchmark.js",
+    "start": "0x index.js"
+  },
+  "keywords": [],
+  "author": "Julieta Albertengo",
+  "license": "ISC",
+  "dependencies": {
+    "artillery": "^1.6.2",
+    "autocannon": "^7.3.0",
+    "compression": "^1.7.4",
+    "express": "^4.17.1"
+  }
+}
